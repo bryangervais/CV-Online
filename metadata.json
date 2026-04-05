@@ -1,0 +1,7 @@
+{
+  "name": "Clinical Prestige | Dr. Bege",
+  "description": "Academic Sanctuary for clinical research and medical education mentorship by Dr. Bryan Gervais de Liyis, MD.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
